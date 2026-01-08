@@ -39,7 +39,7 @@ To maintain modularity, the framework is supported by several specialized functi
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/Unified-Structural-Analysis.git](https://github.com/YourUsername/Unified-Structural-Analysis.git)
+    git clone [https://github.com/A-laaeddine/STIFFNESS-MATRIX-STRUCTURAL-ANALYSIS](https://github.com/A-laaeddine/STIFFNESS-MATRIX-STRUCTURAL-ANALYSIS))
     ```
 2.  Open **MATLAB** and navigate to the repository folder.
 3.  Define your structural parameters (nodes, members, loads) within the `manualInput.m` function.
@@ -64,5 +64,7 @@ This project is licensed under the **MIT License** - see the `LICENSE` file for 
 
 ## 🤝 Contact
 
-**Mohamad Alaaeddine** - [Your Email/LinkedIn]  
-Project Link: [https://github.com/YourUsername/Unified-Structural-Analysis](https://github.com/YourUsername/Unified-Structural-Analysis)
+**Mohamad Alaaeddine** 📧 [mohamad.alaaeddine@lau.edu](mailto:mohamad.alaaeddine@lau.edu)  
+🔗 [LinkedIn](www.linkedin.com/in/mohamad-alaaeddine-)  
+🚀 [Project Repository](https://github.com/A-laaeddine/STIFFNESS-MATRIX-STRUCTURAL-ANALYSIS)
+
