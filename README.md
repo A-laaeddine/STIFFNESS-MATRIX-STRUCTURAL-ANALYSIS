@@ -61,6 +61,8 @@ All test cases demonstrated a high degree of numerical accuracy, typically maint
 
 This project is licensed under the **MIT License** - see the `LICENSE` file for details.
 
+---
+
 ## 🤝 Contact
 
 **Mohamad Alaaeddine** 📧 [mohamad.alaaeddine@lau.edu](mailto:mohamad.alaaeddine@lau.edu)  
